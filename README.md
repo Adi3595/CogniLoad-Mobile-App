@@ -176,7 +176,9 @@ In `cognitive_load_service.dart`, add a new `_calculate*Score()` method and incl
 ### Customize Colors
 All theme values are in `theme/app_theme.dart`.
 
-### Contributors
+---
+
+## Contributors
 
 Atharva Ghule        
 Aditya Gawali
