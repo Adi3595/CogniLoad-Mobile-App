@@ -181,4 +181,5 @@ All theme values are in `theme/app_theme.dart`.
 ## Contributors
 
 Atharva Ghule        
-Aditya Gawali
+Aditya Gawali        
+Om Gawale
